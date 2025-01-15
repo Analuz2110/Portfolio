@@ -392,6 +392,12 @@ img{
     gap: 2rem 1.5;
 }
 
+/*=====TRAJETORIA=====*/
+.trajetoria_title{
+    font-size: var(--h3-font-size);
+    margin-bottom: 1rem;
+}
+
 /*=====SERVICES=====*/
 .services__container{
     row-gap: 2rem;
